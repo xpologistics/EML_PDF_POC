@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = nuget
+build_property.ProjectDir = C:\ProjectArea\nuget\nuget\

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.Email" Version="21.10.0" />
+    <PackageReference Include="Aspose.Words" Version="21.10.0" />
+    <PackageReference Include="GemBox.Document" Version="33.0.1317" />
+    <PackageReference Include="GemBox.Email" Version="15.0.1086" />
+    <PackageReference Include="GroupDocs.Conversion" Version="21.9.1" />
+    <PackageReference Include="Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core" Version="19.3.0.47" />
+  </ItemGroup>
+
+</Project>
